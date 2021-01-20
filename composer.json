@@ -1,4 +1,11 @@
 {
+	"name": "yatharth-logistic/currency-converter",
+    "type": "project",
+    "description": "Currency converter package",
+    "keywords": [
+        "Currency",
+        "converter"
+    ],
 	"authors": [
 		{
 			"name": "yatharth vataliya",
