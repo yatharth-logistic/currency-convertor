@@ -2,6 +2,7 @@
 	"name": "yatharth-logistic/currency-converter",
     "type": "project",
     "description": "Currency converter package",
+    "license": "MIT",
     "keywords": [
         "Currency",
         "converter"
@@ -13,6 +14,7 @@
 			"role": "Developer"
 		}
 	],
+	"minimum-stability": "stable",
 	"autoload": {
 		"psr-4":{
 			"Currency\\" : "src/"
