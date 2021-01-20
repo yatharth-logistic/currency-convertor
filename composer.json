@@ -1,5 +1,12 @@
 {
-	"autoload":{
+	"authors": [
+		{
+			"name": "yatharth vataliya",
+			"email": "yatharth.logistic.101@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"autoload": {
 		"psr-4":{
 			"Currency\\" : "src/"
 		}
